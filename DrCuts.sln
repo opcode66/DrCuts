@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DrCuts", "DrCuts.vcproj", "{1BDB627B-E96D-451B-9F57-925A04C16453}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DrCutsInstaller_x64", "..\DrCutsInstaller_x64\DrCutsInstaller_x64.vdproj", "{3127BF1C-5867-422F-9D56-BBA6EE1DA197}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DrCutsInstaller", "..\DrCutsInstaller\DrCutsInstaller.vdproj", "{47544A6C-ECA0-45CB-BBFF-9F1CCED40D99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BDB627B-E96D-451B-9F57-925A04C16453}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1BDB627B-E96D-451B-9F57-925A04C16453}.Debug|Win32.Build.0 = Debug|Win32
+		{1BDB627B-E96D-451B-9F57-925A04C16453}.Debug|x64.ActiveCfg = Debug|x64
+		{1BDB627B-E96D-451B-9F57-925A04C16453}.Debug|x64.Build.0 = Debug|x64
+		{1BDB627B-E96D-451B-9F57-925A04C16453}.Release|Win32.ActiveCfg = Release|Win32
+		{1BDB627B-E96D-451B-9F57-925A04C16453}.Release|Win32.Build.0 = Release|Win32
+		{1BDB627B-E96D-451B-9F57-925A04C16453}.Release|x64.ActiveCfg = Release|x64
+		{1BDB627B-E96D-451B-9F57-925A04C16453}.Release|x64.Build.0 = Release|x64
+		{3127BF1C-5867-422F-9D56-BBA6EE1DA197}.Debug|Win32.ActiveCfg = Debug
+		{3127BF1C-5867-422F-9D56-BBA6EE1DA197}.Debug|Win32.Build.0 = Debug
+		{3127BF1C-5867-422F-9D56-BBA6EE1DA197}.Debug|x64.ActiveCfg = Debug
+		{3127BF1C-5867-422F-9D56-BBA6EE1DA197}.Debug|x64.Build.0 = Debug
+		{3127BF1C-5867-422F-9D56-BBA6EE1DA197}.Release|Win32.ActiveCfg = Release
+		{3127BF1C-5867-422F-9D56-BBA6EE1DA197}.Release|Win32.Build.0 = Release
+		{3127BF1C-5867-422F-9D56-BBA6EE1DA197}.Release|x64.ActiveCfg = Release
+		{3127BF1C-5867-422F-9D56-BBA6EE1DA197}.Release|x64.Build.0 = Release
+		{47544A6C-ECA0-45CB-BBFF-9F1CCED40D99}.Debug|Win32.ActiveCfg = Debug
+		{47544A6C-ECA0-45CB-BBFF-9F1CCED40D99}.Debug|x64.ActiveCfg = Debug
+		{47544A6C-ECA0-45CB-BBFF-9F1CCED40D99}.Release|Win32.ActiveCfg = Release
+		{47544A6C-ECA0-45CB-BBFF-9F1CCED40D99}.Release|x64.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
